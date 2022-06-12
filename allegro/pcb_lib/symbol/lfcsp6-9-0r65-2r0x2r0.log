@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LFCSP6-9-0R65-2R0X2R0.dra                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Mar 23 18:40:28 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/BH/EDA/pcb_lib/symbol
+    Name      = lfcsp6-9-0r65-2r0x2r0.psm
+    User      = dell
+    Machine   = DESKTOP-T01D15N
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DFN6-0R50-2X3.dra                             )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sun Apr 26 09:10:39 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/BH/EDA/pcb_lib/symbol
+    Name      = dfn6-0r50-2x3.psm
+    User      = dell
+    Machine   = DESKTOP-T01D15N
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

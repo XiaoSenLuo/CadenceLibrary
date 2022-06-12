@@ -1,0 +1,193 @@
+
+(EDIF
+  (rename ECS_45_1105_45_18_45_30_45_JGN_45_TR "ECS-1105-18-30-JGN-TR")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2021 11 28 04 09 03)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename ECS_45_1105_45_18_45_30_45_JGN_45_TR "ECS-1105-18-30-JGN-TR")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename ECS_45_1105_45_18_45_30_45_JGN_45_TR "ECS-1105-18-30-JGN-TR")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "Y")
+          (property (rename VALUE "Value") (string "ECS-1105-18-30-JGN-TR"))
+          (port
+            (rename IN_47_OUT "IN/OUT")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "1")
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename OUT_47_IN "OUT/IN")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "2")
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -20000 -7000) (pt 20000 7000)))
+            (portImplementation
+              (name OUT_47_IN)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 0)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name IN_47_OUT)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 0)
+                    (pt -10000 0)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 0) (pt 10000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 0) (pt -4000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -1500 6000) (pt -1500 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -1500 -6000) (pt 1500 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1500 -6000) (pt 1500 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1500 6000) (pt -1500 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 7000) (pt 4000 -7000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -4000 7000) (pt -4000 -7000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20051 9039))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20059 -15055))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "XTAL_ECS-1105-18-30-JGN-TR"))
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "ECS-110.5-18-30-JGN-TR"))
+            )
+            (property
+              (rename Purchase_URL "Purchase_URL")
+              (string
+              (stringDisplay "https://pricing.snapeda.com/search/part/ECS-110.5-18-30-JGN-TR/?ref=eda"))
+            )
+            (property
+              (rename Digi_Key_Part_Number "Digi_Key_Part_Number")
+              (string
+              (stringDisplay "XC3119CT-ND"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Crystal 11.0592MHz ±20ppm (Tol) ±30ppm (Stability) 18pF FUND 80Ohm 2-Pin Mini-SMD T/R
+"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "SMD-2 ECS International"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "ECS Inc."))
+            )
+          )
+        )
+      )
+    )
+  )
+)

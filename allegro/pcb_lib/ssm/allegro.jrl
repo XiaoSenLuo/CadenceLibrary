@@ -1,0 +1,104 @@
+\t (00:14:44) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:14:44)     Journal start - Tue Mar 03 15:52:56 2020
+\t (00:14:44)         Host=DESKTOP-T01D15N User=dell Pid=4120 CPUs=6
+\t (00:14:44) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:14:44) 
+\d (00:14:44) Design opened: F:/BH/EDA/pcb_lib/ssm/key_12x8-l.dra
+\i (00:14:44) shapeedit 
+\i (00:14:45) zoom out 1 
+\i (00:14:45) setwindow pcb
+\i (00:14:45) zoom out -343.1042 47.3330
+\t (00:14:45) Grids are drawn 8.0000, 8.0000 apart for enhanced viewability.
+\i (00:14:45) trapsize 52787
+\i (00:14:45) zoom out 1 
+\i (00:14:45) setwindow pcb
+\i (00:14:45) zoom out -343.1043 47.3330
+\t (00:14:45) Grids are drawn 16.0000, 16.0000 apart for enhanced viewability.
+\i (00:14:45) trapsize 105574
+\i (00:14:46) zoom in 1 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in 243.8889 -13.9002
+\t (00:14:46) Grids are drawn 8.0000, 8.0000 apart for enhanced viewability.
+\i (00:14:46) trapsize 52787
+\i (00:14:46) zoom in 1 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in 82.3602 -19.1789
+\i (00:14:46) trapsize 26394
+\i (00:14:46) zoom in 1 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in 82.3602 -19.1788
+\i (00:14:46) trapsize 13197
+\i (00:14:48) zoom out 1 
+\i (00:14:48) setwindow pcb
+\i (00:14:48) zoom out 225.6774 -46.8921
+\i (00:14:48) trapsize 26394
+\i (00:14:48) zoom out 1 
+\i (00:14:48) setwindow pcb
+\i (00:14:48) zoom out 225.6774 -46.8921
+\i (00:14:48) trapsize 52787
+\i (00:14:49) zoom in 1 
+\i (00:14:49) setwindow pcb
+\i (00:14:49) zoom in 244.6808 -32.1116
+\i (00:14:49) trapsize 26394
+\i (00:14:56) zoom out 1 
+\i (00:14:56) setwindow pcb
+\i (00:14:56) zoom out 243.6250 -34.7509
+\i (00:14:56) trapsize 52787
+\i (00:14:58) zoom out 1 
+\i (00:14:58) setwindow pcb
+\i (00:14:58) zoom out 135.9393 5.3673
+\t (00:14:58) Grids are drawn 16.0000, 16.0000 apart for enhanced viewability.
+\i (00:14:58) trapsize 105574
+\i (00:14:59) zoom in 1 
+\i (00:14:59) setwindow pcb
+\i (00:14:59) zoom in 211.9527 89.8267
+\t (00:14:59) Grids are drawn 8.0000, 8.0000 apart for enhanced viewability.
+\i (00:14:59) trapsize 52787
+\i (00:14:59) zoom in 1 
+\i (00:14:59) setwindow pcb
+\i (00:14:59) zoom in 171.8345 106.7186
+\i (00:14:59) trapsize 26394
+\i (00:14:59) zoom in 1 
+\i (00:14:59) setwindow pcb
+\i (00:14:59) zoom in 171.8345 107.7744
+\i (00:14:59) trapsize 13197
+\i (00:15:01) zoom out 1 
+\i (00:15:01) setwindow pcb
+\i (00:15:01) zoom out 145.9688 92.9940
+\i (00:15:01) trapsize 26394
+\i (00:15:01) zoom out 1 
+\i (00:15:01) setwindow pcb
+\i (00:15:01) zoom out 145.9689 92.9939
+\i (00:15:01) trapsize 52787
+\i (00:15:05) zoom in 1 
+\i (00:15:05) setwindow pcb
+\i (00:15:05) zoom in 176.5854 -83.3151
+\i (00:15:05) trapsize 26394
+\i (00:15:05) zoom in 1 
+\i (00:15:05) setwindow pcb
+\i (00:15:05) zoom in 176.5854 -83.3151
+\i (00:15:05) trapsize 13197
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out 176.5854 -83.3151
+\i (00:15:06) trapsize 26394
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out 176.5855 -83.3151
+\i (00:15:06) trapsize 52787
+\i (00:15:16) dxf in 
+\i (00:15:16) shapeedit 
+\i (00:16:19) setwindow form.dxfInMain
+\i (00:16:19) FORM dxfInMain units MM 
+   (00:16:19) Loading mfg.cxt 
+\i (00:16:23) FORM dxfInMain cancel  
+\i (00:16:23) setwindow pcb
+\i (00:16:23) shapeedit 
+\i (00:16:31) open 
+\e (00:16:31) Do you want to save the changes you made to key_12x8-l.dra?
+\i (00:16:32) fillin no 
+\i (00:16:41) fillin "C:\Users\dell\Desktop\pcb_library_test\symbol\LFBGA100.dra"
+\i (00:16:41) cd "C:\Users\dell\Desktop\pcb_library_test\symbol"
+\t (00:16:41) Opening existing design...
+\i (00:16:41) trapsize 676
+\t (00:16:41)     Journal end - Tue Mar 03 15:54:53 2020

@@ -1,0 +1,13 @@
+(DEVICE FILE: batt-cr2032)
+
+PACKAGE batt-cr2032
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER batt-cr2032  1 2
+
+PINSWAP batt-cr2032  1 2
+
+FUNCTION batt-cr2032 batt-cr2032  1 2
+
+END

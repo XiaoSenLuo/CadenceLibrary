@@ -1,0 +1,34 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\main control chip.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\main control chip.olb")
+      (Select "Design Resources" ".\main control chip.olb" "144pTM4C1233H6PGE"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 535"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1674 52 626")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1046 328")
+        (Zoom "234"))
+      (Path "C:\USERS\DELL\DESKTOP\SCH_LIB\MAIN CONTROL CHIP.OLB")
+      (Package "144pTM4C1233H6PGE")))
+  (MPSSessionName "dell"))

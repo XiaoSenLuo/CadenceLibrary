@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TI-TSSOP65P490X300X110-8N-D-L.dra             )
+(    Software Version : 17.4S022                                      )
+(    Date/Time        : Mon Nov 29 22:10:48 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/Package
+    Name      = ti-tssop65p490x300x110-8n-d-l.psm
+    User      = XIAOSENLUO
+    Machine   = DELL-XIAOSENLUO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

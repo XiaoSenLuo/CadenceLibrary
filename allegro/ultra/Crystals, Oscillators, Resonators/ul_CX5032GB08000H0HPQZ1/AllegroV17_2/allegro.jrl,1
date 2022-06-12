@@ -1,0 +1,61 @@
+\t (00:00:01) allegro 17.4 S022 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Nov 28 17:26:59 2021
+\t (00:00:01)         Host=DELL-XIAOSENLUO User=XIAOSENLUO Pid=13320 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\allegro\ultra\Crystals, Oscillators, Resonators\ul_CX5032GB08000H0HPQZ1\AllegroV17_2\xtal2_CX5032GB_AVX.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Crystals, Oscillators, Resonators/ul_CX5032GB08000H0HPQZ1/AllegroV17_2/xtal2_CX5032GB_AVX.dra
+\i (00:00:07) trapsize 1253
+\i (00:00:07) trapsize 1287
+\i (00:00:07) trapsize 1286
+\i (00:00:07) trapsize 1320
+\i (00:00:07) etchedit 
+\i (00:00:22) 3d 
+\i (00:00:23) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
+\i (00:00:25) etchedit 
+\i (00:00:30) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 23.766 -39.429
+\i (00:01:32) trapsize 2640
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 33.269 -35.734
+\i (00:01:32) trapsize 5279
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 39.603 -32.566
+\i (00:01:32) trapsize 10559
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in -51.203 -87.472
+\i (00:01:33) trapsize 5279
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in -51.203 -87.472
+\i (00:01:33) trapsize 2640
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in 5.815 -3.001
+\i (00:01:34) trapsize 1320
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 6.343 -3.000
+\i (00:01:34) trapsize 2640
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in 6.872 -3.528
+\i (00:01:35) trapsize 1320
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 7.136 -3.528
+\i (00:01:36) trapsize 2640
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in 7.137 -3.528
+\i (00:01:36) trapsize 1320
+\i (00:01:41) exit 
+\e (00:01:41) Do you want to save the changes you made to xtal2_CX5032GB_AVX.dra?
+\i (00:01:43) fillin no 
+\t (00:01:43)     Journal end - Sun Nov 28 17:28:41 2021

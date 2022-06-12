@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : xtal2_CX5032GB_AVX-M.dra                      )
+(    Software Version : 17.4S022                                      )
+(    Date/Time        : Sun Nov 28 17:25:55 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Crystals, Oscillators, Resonators/ul_CX5032GB08000H0HPQZ1/AllegroV17_2
+    Name      = xtal2_cx5032gb_avx-m.psm
+    User      = XIAOSENLUO
+    Machine   = DELL-XIAOSENLUO
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

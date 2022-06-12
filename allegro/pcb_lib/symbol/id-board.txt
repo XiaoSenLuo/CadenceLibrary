@@ -1,0 +1,11 @@
+(DEVICE FILE: id-board)
+
+PACKAGE id-board
+CLASS DISCRETE
+PINCOUNT 1
+
+PINORDER id-board  1
+
+FUNCTION id-board id-board  1
+
+END

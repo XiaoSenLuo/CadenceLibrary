@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : XTAL_NX3225GB_NDK-M.dra                       )
+(    Software Version : 17.4S022                                      )
+(    Date/Time        : Sun Nov 28 17:34:33 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Crystals, Oscillators, Resonators/ul_NX3225GB-16M-STD-CRA-2/AllegroV17_2
+    Name      = xtal_nx3225gb_ndk-m.psm
+    User      = XIAOSENLUO
+    Machine   = DELL-XIAOSENLUO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

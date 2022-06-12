@@ -1,0 +1,13 @@
+(DEVICE FILE: cap_d)
+
+PACKAGE cap_d
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER cap_d  1 2
+
+PINSWAP cap_d  1 2
+
+FUNCTION cap_d cap_d  1 2
+
+END

@@ -1,0 +1,13 @@
+(DEVICE FILE: amc-esd-b_2)
+
+PACKAGE amc-esd-b_2
+CLASS DISCRETE
+PINCOUNT 4
+
+PINORDER amc-esd-b_2  1 2 3 4
+
+PINSWAP amc-esd-b_2  1 2 3 4
+
+FUNCTION amc-esd-b_2 amc-esd-b_2  1 2 3 4
+
+END

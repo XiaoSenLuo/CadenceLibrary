@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : UQFN12-0R40-2X1R7.dra                         )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Mar 23 19:12:26 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/BH/EDA/pcb_lib/symbol
+    Name      = uqfn12-0r40-2x1r7.psm
+    User      = dell
+    Machine   = DESKTOP-T01D15N
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

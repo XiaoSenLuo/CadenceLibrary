@@ -1,0 +1,342 @@
+* THS4531
+*****************************************************************************
+* (C) Copyright 2011 Texas Instruments Incorporated. All rights reserved.                                            
+*****************************************************************************
+** This model is designed as an aid for customers of Texas Instruments.
+** TI and its licensors and suppliers make no warranties, either expressed
+** or implied, with respect to this model, including the warranties of 
+** merchantability or fitness for a particular purpose.  The model is
+** provided solely on an "as is" basis.  The entire risk as to its quality
+** and performance is with the customer.
+*****************************************************************************
+]
+** Released by: Analog eLab Design Center, Texas Instruments Inc.
+* Part: THS4531
+* Date: 04NOV2011
+* Model Type: ALL-IN-ONE
+* Simulator: PSPICE
+* Simulator Version: 16.0.0.p001
+* EVM Order Number: N/A
+* EVM Users Guide: N/A
+* Datasheet: SLOS358 - SEPTEMBER 2011
+*
+* Model Version: 1.0
+*
+*****************************************************************************
+*
+* Updates:
+*
+* Version 1.0 : 
+* Release to Web
+*
+*****************************************************************************
+*
+
+* BEGIN FEATURES
+* 5V Supply only
+* OPEN LOOP GAIN AND PHASE
+* INPUT VOLTAGE NOISE
+* UGBW
+* INPUT COMMON MODE VOLTAGE RANGE
+* SLEW RATE
+* tr and tf
+* QUIESCENT CURRENT ON mode
+* QUIESCENT CURRENT OFF mode
+* OUTPUT CLAMPS TO RAILS
+* PWD Mode
+* END FEATURES
+
+* source THS4531
+*$
+.SUBCKT THS4531 VIN+ VIN- VOCM VCC VEE VOUT+ VOUT- PD
+V_V17         N3337259 VZNEG DC 0 AC 0 0
+Q_Q2         N3339183 VIN- N3338287 TI_PNP 
+R_R29         VMID VZPOS  330k  
+R_R6         N3338225 VCCX  2.5k  
+C_C11         0 N3336111  400f  
+X_F9    N3339183 VEEX N3337259 VEEX THS4531_F9 
+E_E1         N3340803 0 VMID VZNEG 1
+Q_Q14         VEEX VOCM N3336085 TI_PNP 
+R_R17         VEEX N3339341  3k  
+R_R27         N3336827 N3338503  200  
+V_V4         N3336157 VEE 0.95Vdc
+R_R20         VEE VOCM  10G  
+V_V3         N3339361 VEE 0.95Vdc
+E_E4         N3336659 0 VMID VZPOS 1
+D_U3         VCCX N3339177 TI_D 
+X_F1    N3336787 VEEX IQBN VEEX THS4531_F1 
+V_V6         VVG N3338333 100mVdc
+X_F4    VCCX N3338993 VZPOS VEEX THS4531_F4 
+Q_Q25         IBMAIN N3336839 VEEX TI_NPN 
+V_V11         VIN+ N3373550 0.1m
+R_R24         0 N3336827  570k  
+C_C6         N3336827 VZNEG  5.0p  
+Q_Q24         N3336839 N3336839 N3337249 TI_NPN 
+R_R15         N3338215 VCCX  3k  
+X_F10    IBMAIN IQB1 VCCX N3337259 THS4531_F10 
+X_S1    PD 0 S1_2_DRAIN N3340899 THS4531_S1 
+X_S6    N3338119 0 N3338119 N3338383 THS4531_S6 
+D_D14         N3336827 N3338483 TI_D 
+Q_Q26         PDZ PD VEEX TI_NPN 
+Q_Q15         VCCX VOCM N3338961 TI_NPN 
+C_C9         N3336111 VZPOS  5.0p  
+Q_Q17         VEEX N3338961 N3337145 TI_PNP 
+Q_Q23         N3336085 N3337083 N3338215 TI_PNP 
+V_V14         N3340585 VEE 0Vdc
+X_F7    IQBE IQBF N3337083 N3338645 THS4531_F7 
+D_D17         N3336111 N3341133 TI_D 
+C_C2         0 N3336827  400f  
+R_R23         0 N3339173  400k  
+R_R36         PD VCC  10G  
+G_G5         N3338993 N3338999 N3337145 N3336983 2e-3
+E_E11         VEEX 0 VEE 0 1
+Q_Q5         VVG IBMAIN N3338639 TI_PNP 
+E_E7         N3338119 0 VIN+ VIN- -1
+Q_Q16         VCCX N3336085 N3337145 TI_NPN 
+D_D15         N3339361 N3336827 TI_D 
+X_F8    N3339467 VEEX N3339459 VEEX THS4531_F8 
+Q_Q10         PDZ PD VCCX TI_PNP 
+C_C7         0 N3336145  100f  
+R_R37         VCC S1_2_DRAIN  20k  
+X_F13    IQB1 IQB7 VCCX N3339459 THS4531_F13 
+X_S9    PD 0 N3336111 VOUT- THS4531_S9 
+V_V5         VCC N3341133 0.95Vdc
+D_U2         VCCX N3338639 TI_D 
+X_S4    PDZ 0 S3_4_DRAIN N3340585 THS4531_S4 
+G_G2         N3336827 0 N3339173 0 4e-3
+X_U6         N3338639 VCCX RNL PARAMS:  R=2.5k
+C_C8         N3336111 N3336145  250f  
+X_F2    IQBL IQBN VCCX IBMAIN THS4531_F2 
+C_C17         N3336983 VCCX  20f  
+X_U4         N3373550 N3338527 vnse PARAMS:
+R_R33         N3339187 VCCX  10Meg  
+X_S11    PDZ 0 VOUT- VOCM THS4531_S11 
+C_C4         VMID VZNEG  50f  
+C_C3         N3336827 N3339173  250f  
+E_E5         VREF 0 N3339187 0 1
+X_U7         N3339177 VCCX RNL PARAMS:  R=2.5k
+X_S12    PDZ 0 VOCM VOUT+ THS4531_S12 
+C_C1         0 N3339173  100f  
+Q_Q9         VVG IBMAIN N3339177 TI_PNP 
+G_G1         N3339173 0 N3340803 0 0.85e-3
+E_E6         N3337827 0 VIN+ VIN- 1
+R_R14         N3337087 VCCX  3k  
+R_R35         VABS N3338383  1000  
+V_V7         VVG N3338287 100mVdc
+E_E10         VCCX 0 VCC 0 1
+C_C16         VEEX N3336983  20f  
+R_R25         VMID VZNEG  330k  
+I_I2         VCC S3_4_DRAIN DC 20nAdc  
+R_R34         VEEX N3339187  10Meg  
+R_R28         0 N3336145  400k  
+R_R30         N3336111 N3338323  200  
+C_C18         0 VABS  1p  
+E_E14         VMID VEE VCC VEE 0.5
+X_S10    PD 0 N3336827 VOUT+ THS4531_S10 
+Q_Q22         N3337083 N3337083 N3337087 TI_PNP 
+D_U1         VCCX N3338225 TI_D 
+V_V2         VCC N3338483 0.95Vdc
+X_F5    N3338999 VEEX VZNEG VEEX THS4531_F5 
+X_F3    IQB7 IQBE VCCX VEEX THS4531_F3 
+V_V12         N3340899 VEE 0Vdc
+E_E15         N3337249 VEEX VABS 0 0.102
+I_I1         VCCX N3336787 DC 30uAdc  
+X_F6    IQBF IQBL VCCX N3336839 THS4531_F6 
+Q_Q19         N3338961 N3338645 N3339341 TI_NPN 
+D_D16         N3336157 N3336111 TI_D 
+R_R21         N3336983 VOUT+  100K  
+G_G3         N3336111 0 N3336145 0 4e-3
+R_R16         VEEX N3336629  3k  
+R_R31         0 N3336111  570k  
+V_V18         N3339459 VZPOS DC 0 AC 0 0
+Q_Q1         N3339467 N3338527 N3338333 TI_PNP 
+Q_Q8         IBMAIN IBMAIN N3338225 TI_PNP 
+X_S5    N3337827 0 N3337827 N3338383 THS4531_S5 
+C_C10         VMID VZPOS  50f  
+Q_Q18         N3338645 N3338645 N3336629 TI_NPN 
+R_R19         VOCM VCC  10G  
+R_R22         VOUT- N3336983  100K  
+C_C13         N3338323 N3338503  40p  
+G_G4         N3336145 0 N3336659 0 0.85e-3
+.ENDS
+*$
+* END MODEL THS4531
+.subckt THS4531_F9 1 2 3 4  
+F_F9         3 4 VF_F9 1
+VF_F9         1 2 0V
+.ends THS4531_F9
+*$
+.subckt THS4531_F1 1 2 3 4  
+F_F1         3 4 VF_F1 1
+VF_F1         1 2 0V
+.ends THS4531_F1
+*$
+.subckt THS4531_F4 1 2 3 4  
+F_F4         3 4 VF_F4 1
+VF_F4         1 2 0V
+.ends THS4531_F4
+*$
+.subckt THS4531_F10 1 2 3 4  
+F_F10         3 4 VF_F10 1
+VF_F10         1 2 0V
+.ends THS4531_F10
+*$
+.subckt THS4531_S1 1 2 3 4  
+S_S1         3 4 1 2 _S1
+RS_S1         1 2 1G
+.MODEL         _S1 VSWITCH Roff=10e9 Ron=1.0m VH=0.3V VT=1.0V TD=0
+.ends THS4531_S1
+*$
+.subckt THS4531_S6 1 2 3 4  
+S_S6         3 4 1 2 _S6
+RS_S6         1 2 1G
+.MODEL         _S6 VSWITCH Roff=1e6 Ron=1.0 Voff=0.0V Von=1e-1
+.ends THS4531_S6
+*$
+.subckt THS4531_F7 1 2 3 4  
+F_F7         3 4 VF_F7 1.2
+VF_F7         1 2 0V
+.ends THS4531_F7
+*$
+.subckt THS4531_F8 1 2 3 4  
+F_F8         3 4 VF_F8 1
+VF_F8         1 2 0V
+.ends THS4531_F8
+*$
+.subckt THS4531_F13 1 2 3 4  
+F_F13         3 4 VF_F13 1
+VF_F13         1 2 0V
+.ends THS4531_F13
+*$
+.subckt THS4531_S9 1 2 3 4  
+S_S9         3 4 1 2 _S9
+RS_S9         1 2 1G
+.MODEL         _S9 VSWITCH Roff=10e6 Ron=1.0e-3 VH=0.3V VT=1.0V TD=0
+.ends THS4531_S9
+*$
+.subckt THS4531_S4 1 2 3 4  
+S_S4         3 4 1 2 _S4
+RS_S4         1 2 1G
+.MODEL         _S4 VSWITCH Roff=10e6 Ron=1.0e-3 VH=0.3V VT=1.0V TD=0
+.ends THS4531_S4
+*$
+.subckt THS4531_F2 1 2 3 4  
+F_F2         3 4 VF_F2 1
+VF_F2         1 2 0V
+.ends THS4531_F2
+*$
+.subckt THS4531_S11 1 2 3 4  
+S_S11         3 4 1 2 _S11
+RS_S11         1 2 1G
+.MODEL         _S11 VSWITCH Roff=10e6 Ron=1.0e-3 VH=0.3V VT=1.0V TD=0
+.ends THS4531_S11
+*$
+.subckt THS4531_S12 1 2 3 4  
+S_S12         3 4 1 2 _S12
+RS_S12         1 2 1G
+.MODEL         _S12 VSWITCH Roff=10e6 Ron=1.0e-3 VH=0.3V VT=1.0V TD=0
+.ends THS4531_S12
+*$
+.subckt THS4531_S10 1 2 3 4  
+S_S10         3 4 1 2 _S10
+RS_S10         1 2 1G
+.MODEL         _S10 VSWITCH Roff=10e6 Ron=1.0e-3 VH=0.3V VT=1.0V TD=0
+.ends THS4531_S10
+*$
+.subckt THS4531_F5 1 2 3 4  
+F_F5         3 4 VF_F5 1
+VF_F5         1 2 0V
+.ends THS4531_F5
+*$
+.subckt THS4531_F3 1 2 3 4  
+F_F3         3 4 VF_F3 2
+VF_F3         1 2 0V
+.ends THS4531_F3
+*$
+.subckt THS4531_F6 1 2 3 4  
+F_F6         3 4 VF_F6 1
+VF_F6         1 2 0V
+.ends THS4531_F6
+*$
+.subckt THS4531_S5 1 2 3 4  
+S_S5         3 4 1 2 _S5
+RS_S5         1 2 1G
+.MODEL         _S5 VSWITCH Roff=1e6 Ron=1.0 Voff=0.0V Von=1e-1
+.ends THS4531_S5
+*$
+** Wrapper definitions for AA legacy support **
+.model TI_PNP pnp
++ bf=150
++ va=120
++ rb=440
++ re=20
++ tf=2e-013
++ cjc=1e-013
++ cje=1e-013
++ kf=8.8e-015
+*$
+.model TI_D d
++ is=1e-013
++ vj=0.4
++ cjo=6e-013
+*$
+.model TI_NPN npn
++ bf=150
++ va=120
++ rb=190
++ re=20
++ tf=2e-013
++ cjc=1e-013
++ cje=1e-013
++ kf=5.3e-015
+*$
+*******************************************************
+*******************************************************
+
+.subckt RNL a b PARAMS: R=1k
+*H_H1 c b VH_H1 {R}
+*VH_H1 a c 0
+ERES a 3 VALUE = { I(VSENSE) * R }
+Rdummy 30 3 1
+VSENSE 30 b DC 0V
+.ends
+
+*******************************************************
+
+
+.SUBCKT VNSE 1 2 
+**************************
+* BEGIN SETUP OF NOISE GEN - NANOVOLT/RT-HZ
+* INPUT THREE VARIABLES
+* NLF - NV/RHZ AT (1/F) FREQ
+* FLW - FREQ FOR (1/F) VAL
+* NVR - NV/RHZ FLATBAND
+**************************
+* START CALC VALS
+.PARAM NLF=5
+.PARAM FLW=1
+.PARAM NVR=7.0
+.PARAM GLF={PWR(FLW,0.25)*NLF/1164}
+.PARAM RNV={1.184*PWR(NVR,2)}
+.MODEL DVN D KF={PWR(FLW,0.5)/1E11} IS=1.0E-16
+* END CALC VALS
+I1 0 7 10E-3
+I2 0 8 10E-3
+D1 7 0 DVN
+D2 8 0 DVN
+E1 3 6 7 8 {GLF}
+R1 3 0 1E9
+R2 3 0 1E9
+R3 3 6 1E9
+E2 6 4 5 0 10
+R4 5 0 {RNV}
+R5 5 0 {RNV}
+R6 3 4 1E9
+R7 4 0 1E9
+E3 1 2 3 4 1
+C1 1 0 1E-15
+C2 2 0 1E-15
+C3 1 2 1E-15
+.ENDS VNSE
+*******************************************************
+*$

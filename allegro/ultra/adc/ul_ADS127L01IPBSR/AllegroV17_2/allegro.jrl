@@ -1,0 +1,138 @@
+\t (00:00:09) allegro 17.4 S022 Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Sat Nov 20 16:41:03 2021
+\t (00:00:09)         Host=DELL-XIAOSENLUO User=XIAOSENLUO Pid=7744 CPUs=8
+\t (00:00:09) CmdLine= allegro.exe -s builder.scr.txt
+\t (00:00:09) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 782
+\i (00:00:10) trapsize 803
+\i (00:00:10) trapsize 1312
+\i (00:00:10) trapsize 1213
+\i (00:00:10) replay builder.scr.txt 
+\i (00:00:10) skill 'load "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/builder.ile" ' 
+   (00:00:10) t
+\i (00:00:10) skill 'changeWorkingDir "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2" ' 
+   (00:00:10) t
+\i (00:00:10) skill 'LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_L.xml" ' 
+\t (00:00:10) Reading Footprint XML
+\t (00:00:10) Creating padstacks
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 782
+\i (00:00:11) trapsize 803
+\i (00:00:11) trapsize 1276
+\i (00:00:11) trapsize 1276
+\i (00:00:11) trapsize 127628
+\t (00:00:11) Performing DRC...
+\t (00:00:11) Multithreaded DRC update (8 threads).
+\t (00:00:11) No DRC errors detected.
+\t (00:00:11) Opening Design "PBS0032A_L.dra"
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 78241
+\i (00:00:11) trapsize 80337
+\i (00:00:11) trapsize 78241
+\i (00:00:11) trapsize 127628
+\i (00:00:11) trapsize 127628
+\i (00:00:11) trapsize 127628
+\t (00:00:11) Performing DRC...
+\i (00:00:11) trapsize 121255
+\t (00:00:12) No DRC errors detected.
+\i (00:00:12) trapsize 24013
+\t (00:00:12) Creating TextBlocks
+\t (00:00:12) Creating Shapes on Package layers
+\t (00:00:12) Creating Pins
+\t (00:00:12) Creating Vias
+\t (00:00:12) Creating package symbol 'C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/pbs0032a_l.psm'.
+\t (00:00:12) Starting Create symbol...
+\t (00:00:12) Symbol Created
+   (00:00:12) Loading cmds.cxt 
+   (00:00:12) Loading skillExt.cxt 
+\i (00:00:12) trapsize 2594
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 2594
+\i (00:00:13) trapsize 2663
+\i (00:00:13) trapsize 2594
+\i (00:00:13) trapsize 2730
+\d (00:00:13) Design opened: C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_L.dra
+\t (00:00:13) Symbol Saved
+   (00:00:13) t
+\i (00:00:13) skill 'LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_M.xml" ' 
+\t (00:00:13) Reading Footprint XML
+\t (00:00:13) Creating padstacks
+\t (00:00:13) Starting new design...
+\i (00:00:13) trapsize 12473
+\i (00:00:13) trapsize 12807
+\i (00:00:13) trapsize 12473
+\i (00:00:13) trapsize 25275
+\i (00:00:13) trapsize 25275
+\i (00:00:13) trapsize 25275
+\t (00:00:13) Performing DRC...
+\t (00:00:13) No DRC errors detected.
+\t (00:00:13) Opening Design "PBS0032A_M.dra"
+\t (00:00:13) Starting new design...
+\i (00:00:14) trapsize 12473
+\i (00:00:14) trapsize 12807
+\i (00:00:14) trapsize 12473
+\i (00:00:14) trapsize 25275
+\i (00:00:14) trapsize 25275
+\i (00:00:14) trapsize 25275
+\t (00:00:14) Performing DRC...
+\t (00:00:14) No DRC errors detected.
+\i (00:00:14) trapsize 25744
+\t (00:00:14) Creating TextBlocks
+\t (00:00:14) Creating Shapes on Package layers
+\t (00:00:14) Creating Pins
+\t (00:00:14) Creating Vias
+\t (00:00:14) Creating package symbol 'C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/pbs0032a_m.psm'.
+\t (00:00:14) Starting Create symbol...
+\t (00:00:14) Symbol Created
+\i (00:00:14) trapsize 3081
+\t (00:00:14) Opening existing design...
+\i (00:00:15) trapsize 3081
+\i (00:00:15) trapsize 3164
+\i (00:00:15) trapsize 3081
+\i (00:00:15) trapsize 3243
+\d (00:00:15) Design opened: C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_M.dra
+\t (00:00:15) Symbol Saved
+   (00:00:15) t
+\i (00:00:15) skill 'LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_N.xml" ' 
+\t (00:00:15) Reading Footprint XML
+\t (00:00:15) Creating padstacks
+\t (00:00:15) Starting new design...
+\i (00:00:15) trapsize 12583
+\i (00:00:15) trapsize 12920
+\i (00:00:15) trapsize 12583
+\i (00:00:15) trapsize 25744
+\i (00:00:15) trapsize 25744
+\i (00:00:15) trapsize 25744
+\t (00:00:15) Performing DRC...
+\t (00:00:15) No DRC errors detected.
+\t (00:00:15) Opening Design "PBS0032A_N.dra"
+\t (00:00:15) Starting new design...
+\i (00:00:15) trapsize 12583
+\i (00:00:16) trapsize 12920
+\i (00:00:16) trapsize 12583
+\i (00:00:16) trapsize 25744
+\i (00:00:16) trapsize 25744
+\i (00:00:16) trapsize 25744
+\t (00:00:16) Performing DRC...
+\t (00:00:16) No DRC errors detected.
+\i (00:00:16) trapsize 25483
+\t (00:00:16) Creating TextBlocks
+\t (00:00:16) Creating Shapes on Package layers
+\t (00:00:16) Creating Pins
+\t (00:00:16) Creating Vias
+\t (00:00:16) Creating package symbol 'C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/pbs0032a_n.psm'.
+\t (00:00:16) Starting Create symbol...
+\t (00:00:16) Symbol Created
+\i (00:00:16) trapsize 2894
+\t (00:00:16) Opening existing design...
+\i (00:00:16) trapsize 2894
+\i (00:00:17) trapsize 2972
+\i (00:00:17) trapsize 2894
+\i (00:00:17) trapsize 3047
+\d (00:00:17) Design opened: C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_N.dra
+\t (00:00:17) Symbol Saved
+   (00:00:17) t
+\i (00:00:17) exit 
+\t (00:00:17)     Journal end - Sat Nov 20 16:41:12 2021

@@ -1,0 +1,13 @@
+(DEVICE FILE: powermodule_2p_5223957-3)
+
+PACKAGE powermodule_2p_5223957-3
+CLASS IC
+PINCOUNT 2
+
+PINORDER powermodule_2p_5223957-3  1 2
+
+PINSWAP powermodule_2p_5223957-3  1 2
+
+FUNCTION powermodule_2p_5223957-3 powermodule_2p_5223957-3  1 2
+
+END

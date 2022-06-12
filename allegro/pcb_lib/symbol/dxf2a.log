@@ -1,0 +1,252 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *U22.
+NOTE: Replacing illegal character * with X in *X1.
+NOTE: Replacing illegal character * with X in *X2.
+NOTE: Replacing illegal character * with X in *X2.
+NOTE: Replacing illegal character * with X in *X3.
+NOTE: Replacing illegal character * with X in *X4.
+NOTE: Replacing illegal character * with X in *X4.
+NOTE: Replacing illegal character * with X in *X5.
+NOTE: Replacing illegal character * with X in *X6.
+NOTE: Replacing illegal character * with X in *X7.
+NOTE: Replacing illegal character * with X in *X8.
+NOTE: Replacing illegal character * with X in *X8.
+NOTE: Replacing illegal character * with X in *X9.
+NOTE: Replacing illegal character * with X in *X10.
+NOTE: Replacing illegal character * with X in *X11.
+NOTE: Replacing illegal character * with X in *X11.
+NOTE: Replacing illegal character * with X in *X12.
+NOTE: Replacing illegal character * with X in *U23.
+NOTE: Replacing illegal character * with X in *U24.
+NOTE: Replacing illegal character * with X in *X13.
+NOTE: Replacing illegal character * with X in *U25.
+NOTE: Replacing illegal character * with X in *U26.
+NOTE: Replacing illegal character * with X in *X14.
+NOTE: Replacing illegal character * with X in *U27.
+NOTE: Replacing illegal character * with X in *U28.
+NOTE: Replacing illegal character * with X in *X15.
+NOTE: Replacing illegal character * with X in *U29.
+NOTE: Replacing illegal character * with X in *U30.
+NOTE: Replacing illegal character * with X in *X16.
+NOTE: Replacing illegal character * with X in *U31.
+NOTE: Replacing illegal character * with X in *U32.
+NOTE: Replacing illegal character * with X in *X17.
+NOTE: Replacing illegal character * with X in *U33.
+NOTE: Replacing illegal character * with X in *U34.
+NOTE: Replacing illegal character * with X in *X18.
+NOTE: Replacing illegal character * with X in *U35.
+NOTE: Replacing illegal character * with X in *U36.
+NOTE: Replacing illegal character * with X in *X19.
+NOTE: Replacing illegal character * with X in *U37.
+NOTE: Replacing illegal character * with X in *U38.
+NOTE: Replacing illegal character * with X in *X20.
+NOTE: Replacing illegal character * with X in *U39.
+NOTE: Replacing illegal character * with X in *U40.
+NOTE: Replacing illegal character * with X in *X21.
+NOTE: Replacing illegal character * with X in *U41.
+NOTE: Replacing illegal character * with X in *U42.
+NOTE: Replacing illegal character * with X in *U22.
+NOTE: Replacing illegal character * with X in *U23.
+NOTE: Replacing illegal character * with X in *U24.
+NOTE: Replacing illegal character * with X in *U25.
+NOTE: Replacing illegal character * with X in *U26.
+NOTE: Replacing illegal character * with X in *U27.
+NOTE: Replacing illegal character * with X in *U28.
+NOTE: Replacing illegal character * with X in *U29.
+NOTE: Replacing illegal character * with X in *U30.
+NOTE: Replacing illegal character * with X in *U31.
+NOTE: Replacing illegal character * with X in *U32.
+NOTE: Replacing illegal character * with X in *U33.
+NOTE: Replacing illegal character * with X in *U34.
+NOTE: Replacing illegal character * with X in *U35.
+NOTE: Replacing illegal character * with X in *U36.
+NOTE: Replacing illegal character * with X in *U37.
+NOTE: Replacing illegal character * with X in *U38.
+NOTE: Replacing illegal character * with X in *U39.
+NOTE: Replacing illegal character * with X in *U40.
+NOTE: Replacing illegal character * with X in *U41.
+NOTE: Replacing illegal character * with X in *U42.
+NOTE: Replacing illegal character * with X in *X5.
+NOTE: Replacing illegal character * with X in *X6.
+NOTE: Replacing illegal character * with X in *X9.
+done.
+WARNING: Ignoring zero length segment at (-141.4575, 17.6895)
+WARNING: Ignoring zero length segment at (-140.6575, 17.6895)
+WARNING: Ignoring zero length segment at (-140.6575, 17.6895)
+WARNING: Ignoring zero length segment at (-141.4575, 18.1895)
+WARNING: Ignoring zero length segment at (-140.6575, 18.1895)
+WARNING: Ignoring zero length segment at (-140.6575, 26.9895)
+WARNING: Ignoring zero length segment at (-141.4575, 26.9895)
+WARNING: Ignoring zero length segment at (-141.4575, 19.3895)
+WARNING: Ignoring zero length segment at (-140.6575, 19.3895)
+WARNING: Ignoring zero length segment at (-140.6575, 25.7895)
+WARNING: Ignoring zero length segment at (-140.6575, 26.9895)
+WARNING: Ignoring zero length segment at (-140.6575, 17.6895)
+WARNING: Ignoring zero length segment at (-140.6575, 17.6895)
+WARNING: Ignoring zero length segment at (-140.6575, 18.1895)
+WARNING: Ignoring zero length segment at (-140.6575, 19.3895)
+WARNING: Ignoring zero length segment at (-140.6575, 25.7895)
+WARNING: Ignoring zero length segment at (-141.4575, 25.7895)
+WARNING: Ignoring zero length segment at (-141.4575, 19.3895)
+WARNING: Ignoring zero length segment at (-141.4575, 18.1895)
+WARNING: Ignoring zero length segment at (-141.4575, 17.6895)
+WARNING: Ignoring zero length segment at (-141.4575, 26.9895)
+WARNING: Ignoring zero length segment at (-141.4575, 25.7895)
+WARNING: Ignoring zero length segment at (-126.2175, 17.6895)
+WARNING: Ignoring zero length segment at (-126.2175, 17.6895)
+WARNING: Ignoring zero length segment at (-125.4175, 17.6895)
+WARNING: Ignoring zero length segment at (-126.2175, 18.1895)
+WARNING: Ignoring zero length segment at (-125.4175, 18.1895)
+WARNING: Ignoring zero length segment at (-125.4175, 26.9895)
+WARNING: Ignoring zero length segment at (-126.2175, 26.9895)
+WARNING: Ignoring zero length segment at (-126.2175, 19.3895)
+WARNING: Ignoring zero length segment at (-125.4175, 19.3895)
+WARNING: Ignoring zero length segment at (-125.4175, 25.7895)
+WARNING: Ignoring zero length segment at (-125.4175, 26.9895)
+WARNING: Ignoring zero length segment at (-125.4175, 17.6895)
+WARNING: Ignoring zero length segment at (-125.4175, 18.1895)
+WARNING: Ignoring zero length segment at (-125.4175, 19.3895)
+WARNING: Ignoring zero length segment at (-125.4175, 25.7895)
+WARNING: Ignoring zero length segment at (-126.2175, 25.7895)
+WARNING: Ignoring zero length segment at (-126.2175, 19.3895)
+WARNING: Ignoring zero length segment at (-126.2175, 18.1895)
+WARNING: Ignoring zero length segment at (-126.2175, 17.6895)
+WARNING: Ignoring zero length segment at (-126.2175, 17.6895)
+WARNING: Ignoring zero length segment at (-126.2175, 26.9895)
+WARNING: Ignoring zero length segment at (-126.2175, 25.7895)
+WARNING: Ignoring zero length segment at (-131.5300, 36.2006)
+WARNING: Ignoring zero length segment at (-131.5300, 36.8783)
+WARNING: Ignoring zero length segment at (-130.9303, 35.8396)
+WARNING: Ignoring zero length segment at (-131.5172, 36.1785)
+WARNING: Ignoring zero length segment at (-130.3178, 36.1785)
+WARNING: Ignoring zero length segment at (-130.9047, 35.8396)
+WARNING: Ignoring zero length segment at (-130.3050, 36.8783)
+WARNING: Ignoring zero length segment at (-130.3050, 36.2006)
+WARNING: Ignoring zero length segment at (-130.9047, 37.2393)
+WARNING: Ignoring zero length segment at (-130.3178, 36.9005)
+WARNING: Ignoring zero length segment at (-130.3178, 36.9005)
+WARNING: Ignoring zero length segment at (-130.3050, 36.8783)
+WARNING: Ignoring zero length segment at (-130.3050, 36.2006)
+WARNING: Ignoring zero length segment at (-130.3178, 36.1785)
+WARNING: Ignoring zero length segment at (-130.9047, 35.8396)
+WARNING: Ignoring zero length segment at (-130.9303, 35.8396)
+WARNING: Ignoring zero length segment at (-131.5172, 36.1785)
+WARNING: Ignoring zero length segment at (-131.5300, 36.2006)
+WARNING: Ignoring zero length segment at (-131.5300, 36.8783)
+WARNING: Ignoring zero length segment at (-131.5172, 36.9005)
+WARNING: Ignoring zero length segment at (-130.9047, 37.2393)
+WARNING: Ignoring zero length segment at (-130.9303, 37.2393)
+WARNING: Ignoring zero length segment at (-131.5172, 36.9005)
+WARNING: Ignoring zero length segment at (-130.9303, 37.2393)
+WARNING: Ignoring zero length segment at (-135.9703, 35.8396)
+WARNING: Ignoring zero length segment at (-136.5572, 36.1785)
+WARNING: Ignoring zero length segment at (-135.3578, 36.1785)
+WARNING: Ignoring zero length segment at (-135.9447, 35.8396)
+WARNING: Ignoring zero length segment at (-135.3450, 36.8783)
+WARNING: Ignoring zero length segment at (-135.3450, 36.2006)
+WARNING: Ignoring zero length segment at (-135.9447, 37.2393)
+WARNING: Ignoring zero length segment at (-135.3578, 36.9005)
+WARNING: Ignoring zero length segment at (-136.5572, 36.9005)
+WARNING: Ignoring zero length segment at (-135.9703, 37.2393)
+WARNING: Ignoring zero length segment at (-135.9703, 37.2393)
+WARNING: Ignoring zero length segment at (-135.9447, 37.2393)
+WARNING: Ignoring zero length segment at (-135.3578, 36.9005)
+WARNING: Ignoring zero length segment at (-135.3450, 36.8783)
+WARNING: Ignoring zero length segment at (-135.3450, 36.2006)
+WARNING: Ignoring zero length segment at (-135.3578, 36.1785)
+WARNING: Ignoring zero length segment at (-135.9447, 35.8396)
+WARNING: Ignoring zero length segment at (-135.9703, 35.8396)
+WARNING: Ignoring zero length segment at (-136.5572, 36.1785)
+WARNING: Ignoring zero length segment at (-136.5700, 36.2006)
+WARNING: Ignoring zero length segment at (-136.5572, 36.9005)
+WARNING: Ignoring zero length segment at (-136.5700, 36.8783)
+WARNING: Ignoring zero length segment at (-136.5700, 36.2006)
+WARNING: Ignoring zero length segment at (-136.5700, 36.8783)
+WARNING: Ignoring zero length segment at (-123.5875, 40.2652)
+WARNING: Ignoring zero length segment at (-124.0996, 40.9016)
+WARNING: Ignoring zero length segment at (-123.6754, 40.4773)
+WARNING: Ignoring zero length segment at (-123.5875, 40.2652)
+WARNING: Ignoring zero length segment at (-123.5875, 40.2652)
+WARNING: Ignoring zero length segment at (-123.6754, 40.4773)
+WARNING: Ignoring zero length segment at (-124.0996, 40.9016)
+WARNING: Ignoring zero length segment at (-142.7754, 40.9016)
+WARNING: Ignoring zero length segment at (-143.1996, 40.4773)
+WARNING: Ignoring zero length segment at (-143.2875, 40.2652)
+WARNING: Ignoring zero length segment at (-142.7754, 40.9016)
+WARNING: Ignoring zero length segment at (-142.7754, 40.9016)
+WARNING: Ignoring zero length segment at (-143.1996, 40.4773)
+WARNING: Ignoring zero length segment at (-143.2875, 40.2652)
+WARNING: Ignoring zero length segment at (-143.1996, 40.4773)
+WARNING: Ignoring zero length segment at (-143.2875, 34.0729)
+WARNING: Ignoring zero length segment at (-143.2875, 34.0729)
+WARNING: Ignoring zero length segment at (-143.2875, 40.2652)
+WARNING: Ignoring zero length segment at (-143.2875, 40.2652)
+WARNING: Ignoring zero length segment at (-143.1996, 40.4773)
+WARNING: Ignoring zero length segment at (-142.7754, 40.9016)
+WARNING: Ignoring zero length segment at (-142.4875, 45.7895)
+WARNING: Ignoring zero length segment at (-142.6875, 45.5895)
+WARNING: Ignoring zero length segment at (-144.4875, 33.9895)
+WARNING: Ignoring zero length segment at (-144.6875, 33.7895)
+WARNING: Ignoring zero length segment at (-144.6875, 17.8895)
+WARNING: Ignoring zero length segment at (-144.6875, 33.7895)
+WARNING: Ignoring zero length segment at (-122.3875, 33.9895)
+WARNING: Ignoring zero length segment at (-122.1875, 33.7895)
+WARNING: Ignoring zero length segment at (-126.2175, 17.6895)
+WARNING: Ignoring zero length segment at (-140.6575, 17.6895)
+WARNING: Ignoring zero length segment at (-140.6575, 17.6895)
+WARNING: Ignoring zero length segment at (-141.4575, 17.6895)
+WARNING: Ignoring zero length segment at (-141.4575, 17.6895)
+WARNING: Ignoring zero length segment at (-126.2175, 17.6895)
+WARNING: Ignoring zero length segment at (-125.4175, 17.6895)
+WARNING: Ignoring zero length segment at (-125.4175, 17.6895)
+WARNING: Ignoring zero length segment at (-122.1875, 17.8895)
+WARNING: Ignoring zero length segment at (-122.3875, 17.6895)
+WARNING: Ignoring zero length segment at (-122.1875, 17.8895)
+WARNING: Ignoring zero length segment at (-122.1875, 33.7895)
+WARNING: Ignoring zero length segment at (-144.4875, 17.6895)
+WARNING: Ignoring zero length segment at (-144.6875, 17.8895)
+WARNING: Ignoring zero length segment at (-142.4875, 45.7895)
+WARNING: Ignoring zero length segment at (-142.6875, 45.5895)
+WARNING: Ignoring zero length segment at (-142.6875, 45.5895)
+WARNING: Ignoring zero length segment at (-142.6875, 45.5895)
+WARNING: Ignoring zero length segment at (-142.6875, 33.9895)
+WARNING: Ignoring zero length segment at (-124.1875, 45.5895)
+WARNING: Ignoring zero length segment at (-124.3875, 45.7895)
+WARNING: Ignoring zero length segment at (-124.3875, 45.7895)
+WARNING: Ignoring zero length segment at (-142.4875, 45.7895)
+WARNING: Ignoring zero length segment at (-142.4875, 45.7895)
+WARNING: Ignoring zero length segment at (-124.3875, 45.7895)
+WARNING: Ignoring zero length segment at (-124.1875, 45.5895)
+WARNING: Ignoring zero length segment at (-124.3875, 45.7895)
+WARNING: Ignoring zero length segment at (-124.1875, 45.5895)
+WARNING: Ignoring zero length segment at (-124.1875, 45.5895)
+WARNING: Ignoring zero length segment at (-124.1875, 33.9895)
+WARNING: Ignoring zero length segment at (-124.0996, 40.9016)
+WARNING: Ignoring zero length segment at (-124.0996, 40.9016)
+WARNING: Ignoring zero length segment at (-123.6754, 40.4773)
+WARNING: Ignoring zero length segment at (-123.5875, 40.2652)
+WARNING: Ignoring zero length segment at (-123.6754, 40.4773)
+WARNING: Ignoring zero length segment at (-124.1875, 33.9895)
+WARNING: Ignoring zero length segment at (-122.3875, 33.9895)
+WARNING: Ignoring zero length segment at (-144.4875, 33.9895)
+WARNING: Ignoring zero length segment at (-142.6875, 33.9895)
+WARNING: Ignoring zero length segment at (-122.3875, 17.6895)
+WARNING: Ignoring zero length segment at (-144.4875, 17.6895)
+WARNING: Ignoring zero length segment at (-141.4575, 17.6895)
+WARNING: Ignoring zero length segment at (-141.4575, 17.6895)
+WARNING: Ignoring zero length segment at (-140.6575, 17.6895)
+WARNING: Ignoring zero length segment at (-140.6575, 17.6895)
+WARNING: Ignoring zero length segment at (-126.2175, 17.6895)
+WARNING: Ignoring zero length segment at (-126.2175, 17.6895)
+WARNING: Ignoring zero length segment at (-125.4175, 17.6895)
+WARNING: Ignoring zero length segment at (-125.4175, 17.6895)
+Layer conversion file: E:/project/POWER_CON_BOARD/chazuo_back_l.cnv
+DXF file: E:/project/POWER_CON_BOARD/chazuo_back.dxf
+BRD file: F:/BH/EDA/pcb_lib/symbol/#Taaaady09988.dra
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.

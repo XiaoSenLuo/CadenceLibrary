@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : USB9-1R25-16R6X13R1-TM.dra                    )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Mar 23 20:07:32 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/BH/EDA/pcb_lib/symbol
+    Name      = usb9-1r25-16r6x13r1-tm.psm
+    User      = dell
+    Machine   = DESKTOP-T01D15N
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

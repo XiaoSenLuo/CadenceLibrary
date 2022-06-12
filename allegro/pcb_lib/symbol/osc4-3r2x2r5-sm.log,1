@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : OSC4-3R2X2R5-SM.dra                           )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Mar 23 19:01:05 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/BH/EDA/pcb_lib/symbol
+    Name      = osc4-3r2x2r5-sm.psm
+    User      = dell
+    Machine   = DESKTOP-T01D15N
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

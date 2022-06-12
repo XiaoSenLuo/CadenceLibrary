@@ -1,0 +1,6 @@
+
+*.sqlite3
+*.accdb
+*.mdb
+*.laccdb
+#Step3D/

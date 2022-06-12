@@ -1,0 +1,6 @@
+skill load "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_L.xml" 
+skill LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_M.xml" 
+skill LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/Library1/allegro/ultra/adc/ul_ADS127L01IPBSR/AllegroV17_2/PBS0032A_N.xml" 
+exit 

@@ -1,0 +1,16 @@
+\t (00:00:01) padstack_editor 17.4 S022 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Dec  1 20:01:08 2021
+\t (00:00:01)         Host=DELL-XIAOSENLUO User=XIAOSENLUO Pid=16368 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\padstack_editor.exe C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Padstack\t_r100_265_m100_265_1d.pad
+\t (00:00:01) 
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:17) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:22) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:30) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:37) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:37) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:39) QtSignal OptionsTab SuppressPadsOption clicked true
+\d (00:00:48) QtSignal MainWindow Save triggered
+\t (00:00:51)     Journal end - Wed Dec  1 20:01:58 2021
+tSignal MainWindow Save triggered
+\t (00:00:49)     Journal end - Wed Dec  1 20:01:53 2021

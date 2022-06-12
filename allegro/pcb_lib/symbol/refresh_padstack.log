@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : con5_microusb.dra                             )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Mar 18 12:24:24 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Mar 18 12:24:24 2020				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'F:/BH/EDA/pcb_lib/symbol/con5_microusb.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  F:/BH/EDA/pcb_lib/fsm/ 
+           F:/BH/EDA/pcb_lib/pads/ 
+           F:/BH/EDA/pcb_lib/symbol/ 
+           F:/BH/EDA/PCB_LIB/ssm/ 
+
+PADPATH =  F:/BH/EDA/pcb_lib/pads/ 
+           F:/BH/EDA/pcb_lib/fsm/ 
+           F:/BH/EDA/PCB_LIB/SSM/ 
+           F:/BH/EDA/PCB_LIB/symbol/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'R016X053S'  pad stack refresh starting.
+
+     'R016X053S'  pad stack refreshed successfully.
+     
+'O042X055-030X034T'  pad stack refresh starting.
+
+     'O042X055-030X034T'  pad stack refreshed successfully.
+     
+'R083X075S-O059X033T_CUST'  pad stack refresh starting.
+
+     'R083X075S-O059X033T_CUST'  pad stack refreshed successfully.
+     
+'R071X075S'  pad stack refresh starting.
+
+     'R071X075S'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

@@ -1,0 +1,13 @@
+(DEVICE FILE: qfm6-5r0x3r2-sm)
+
+PACKAGE qfm6-5r0x3r2-sm
+CLASS IC
+PINCOUNT 6
+
+PINORDER qfm6-5r0x3r2-sm  1 2 3 4 5 6
+
+PINSWAP qfm6-5r0x3r2-sm  1 2 3 4 5 6
+
+FUNCTION qfm6-5r0x3r2-sm qfm6-5r0x3r2-sm  1 2 3 4 5 6
+
+END

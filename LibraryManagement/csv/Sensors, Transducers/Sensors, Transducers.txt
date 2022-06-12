@@ -1,0 +1,73 @@
+Accessories
+Amplifiers
+Camera Modules
+Color Sensors - Industrial
+Color Sensors
+Current Sensors
+Encoders - Industrial
+Encoders
+Float, Level Sensors - Industrial
+Float, Level Sensors
+Flow Sensors - Industrial
+Flow Sensors
+Force Sensors - Industrial
+Force Sensors
+Gas Sensors
+Humidity, Moisture Sensors
+Image Sensors, Camera
+IrDA Transceiver Modules
+LVDT Transducers (Linear Variable Differential Transformer)
+Magnetic Sensors - Compass, Magnetic Field (Modules)
+Magnetic Sensors - Linear, Compass (ICs)
+Magnetic Sensors - Position, Proximity, Speed (Modules) - Industrial
+Magnetic Sensors - Position, Proximity, Speed (Modules)
+Magnetic Sensors - Switches (Solid State)
+Magnets - Multi Purpose
+Magnets - Sensor Matched
+Motion Sensors - Accelerometers
+Motion Sensors - Gyroscopes
+Motion Sensors - IMUs (Inertial Measurement Units)
+Motion Sensors - Inclinometers
+Motion Sensors - Optical
+Motion Sensors - Tilt Switches
+Motion Sensors - Vibration
+Multifunction
+Optical Sensors - Ambient Light, IR, UV Sensors
+Optical Sensors - Distance Measuring
+Optical Sensors - Photo Detectors - CdS Cells
+Optical Sensors - Photo Detectors - Logic Output
+Optical Sensors - Photo Detectors - Remote Receiver
+Optical Sensors - Photodiodes
+Optical Sensors - Photoelectric, Industrial
+Optical Sensors - Photointerrupters - Slot Type - Logic Output
+Optical Sensors - Photointerrupters - Slot Type - Transistor Output
+Optical Sensors - Photonics - Counters, Detectors, SPCM (Single Photon Counting Module)
+Optical Sensors - Phototransistors
+Optical Sensors - Reflective - Analog Output
+Optical Sensors - Reflective - Logic Output
+Particle, Dust Sensors
+Position Sensors - Angle, Linear Position Measuring
+Pressure Sensors, Transducers - Industrial
+Pressure Sensors, Transducers
+Proximity Sensors - Industrial
+Proximity Sensors
+Proximity/Occupancy Sensors - Finished Units
+Sensor Cable - Accessories
+Sensor Cable - Assemblies
+Sensor Interface - Junction Blocks
+Shock Sensors
+Solar Cells
+Specialized Sensors
+Strain Gauges
+Temperature Sensors - Analog and Digital Output - Industrial
+Temperature Sensors - Analog and Digital Output
+Temperature Sensors - NTC Thermistors
+Temperature Sensors - PTC Thermistors
+Temperature Sensors - RTD (Resistance Temperature Detector)
+Temperature Sensors - Thermocouples, Temperature Probes
+Temperature Sensors - Thermostats - Mechanical - Industrial
+Temperature Sensors - Thermostats - Mechanical
+Temperature Sensors - Thermostats - Solid State
+Touch Sensors
+Ultrasonic Receivers, Transmitters - Industrial
+Ultrasonic Receivers, Transmitters

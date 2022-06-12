@@ -1,0 +1,9 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Thu Oct 22 18:58:26 2020
+\t (00:00:00)         Host=DESKTOP-T01D15N User=dell Pid=7288 CPUs=6
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe F:\BH\EDA\pcb_lib\pads\ball10.pad
+\t (00:00:00) 
+\i (00:00:01) setwindow form.padedit
+\i (00:00:01) FORM padedit layers  
+\i (00:00:05) pse_exit
+\t (00:00:05)     Journal end - Thu Oct 22 18:58:31 2020

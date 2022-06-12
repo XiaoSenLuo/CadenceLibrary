@@ -1,0 +1,16 @@
+(DEVICE FILE: j30j-9zkwp7-j)
+
+PACKAGE j30j-9zkwp7-j
+CLASS IC
+PINCOUNT 11
+
+PINORDER j30j-9zkwp7-j  1 2 3 4 5 6 7 8 9 M1,
+ M2
+
+PINSWAP j30j-9zkwp7-j  1 2 3 4 5 6 7 8 9 M1,
+ M2
+
+FUNCTION j30j-9zkwp7-j j30j-9zkwp7-j  1 2 3 4 5 6 7 8 9 M1,
+ M2
+
+END

@@ -1,0 +1,36 @@
+skill load "C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Crystals, Oscillators, Resonators/ul_CX5032GB08000H0HPQZ1/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Crystals, Oscillators, Resonators/ul_CX5032GB08000H0HPQZ1/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Crystals, Oscillators, Resonators/ul_CX5032GB08000H0HPQZ1/AllegroV17_2/xtal2_CX5032GB_AVX-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist xtal2_CX5032GB_AVX.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Crystals, Oscillators, Resonators/ul_CX5032GB08000H0HPQZ1/AllegroV17_2/xtal2_CX5032GB_AVX-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist xtal2_CX5032GB_AVX.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Crystals, Oscillators, Resonators/ul_CX5032GB08000H0HPQZ1/AllegroV17_2/xtal2_CX5032GB_AVX.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist xtal2_CX5032GB_AVX.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 
