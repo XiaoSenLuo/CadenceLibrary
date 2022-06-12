@@ -1,4 +1,0 @@
-skill load "C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Connectors, Interconnects/USB, DVI, HDMI Connectors/ul_12401610E4-2A/AllegroV17_2/builder.ile" 
-skill changeWorkingDir "C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Connectors, Interconnects/USB, DVI, HDMI Connectors/ul_12401610E4-2A/AllegroV17_2" 
-skill LB_createFootprint "C:/Users/XIAOSENLUO/Documents/Cadence/CadenceLibrary/allegro/ultra/Connectors, Interconnects/USB, DVI, HDMI Connectors/ul_12401610E4-2A/AllegroV17_2/12401610E42A_AMP.xml" 
-exit 
