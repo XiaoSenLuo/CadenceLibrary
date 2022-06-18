@@ -4,7 +4,7 @@
   (Folder "Design Resources"
     (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
-    (File ".\ti_amplifiers.olb"
+    (File ".\amplifiers.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -26,12 +26,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ti_amplifiers.olb")
-      (Select "Design Resources" ".\ti_amplifiers.olb" "OPA862"))
+      (Path "Design Resources" ".\amplifiers.olb")
+      (Select "Design Resources" ".\amplifiers.olb" "Amps_x1_5P_1O"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 232 0 814"))
-      (Tab 0)))
-  (MPSSessionName "XIAOSENLUO"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 279 0 814"))
+      (Tab 0))))
