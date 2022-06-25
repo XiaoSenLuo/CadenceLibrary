@@ -1,0 +1,1 @@
+AluminiumCapacitors AlumiumCap Antenna Audio AudioJack BarrelJack BatteryHolder BGA Button Choke Connector Crystal Diodes Encoder FilmCapacitors Fuse GDT Generic Inductor Interface-CAN IRReceiver LCD LightPipe ModJack MountingBracket MOVs Optoisolator Passives Pot PowerModule ProbePoint QFN RFModule Sensor Supercaps Switch Varistor WLCSP
