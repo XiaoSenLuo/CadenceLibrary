@@ -45,3 +45,18 @@ do
   i=$((i+1))
   echo "Dir${i}=$root_path\\Package\\$tdir" >> Capture.txt
 done
+
+
+symbol_dir=`ls -F Symbol | grep [/] | sed 's/\///g' | grep -v '.*-PSpiceFiles'`
+
+echo -e "\n\n\n\n\n[Part Library Directories]\n" >> Capture.txt
+i=0
+echo "dir${i}=$root_path\\Symbol" >> Capture.txt
+for tdir in $symbol_dir
+do
+  i=$((i+1))
+  
+  echo "dir${i}=${root_path}\\Symbol\\${tdir}" >> Capture.txt
+done
+
+#echo -e "$symbol_path" >> Capture.txt
