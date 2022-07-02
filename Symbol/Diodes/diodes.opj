@@ -27,10 +27,11 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\diodes.olb")
-      (Select "Design Resources" ".\diodes.olb" "Diode_LED"))
+      (Select "Design Resources" ".\diodes.olb" "Diode"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 814"))
-      (Tab 0))))
+        (Placement "44 0 1 -1 -1 -1 -1 0 269 0 814"))
+      (Tab 0)))
+  (MPSSessionName "XIAOSENLUO"))
