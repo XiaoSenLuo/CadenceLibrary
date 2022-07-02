@@ -1,0 +1,11 @@
+(Device File: KH_TYPE_C_16P_T)
+
+PACKAGE KH_TYPE_C_16P_T
+CLASS IC
+PINCOUNT 16
+PINORDER KH_TYPE_C_16P_T 'A1' 'A4' 'A5' 'A6' 'A7' 'A8' 'A9' 'A12' 'B1' ,
+'B4' 'B5' 'B6' 'B7' 'B8' 'B9' 'B12' 
+FUNCTION g1 KH_TYPE_C_16P_T 'A1' 'A4' 'A5' 'A6' 'A7' 'A8' 'A9' 'A12' 'B1' ,
+'B4' 'B5' 'B6' 'B7' 'B8' 'B9' 'B12' 
+
+END
