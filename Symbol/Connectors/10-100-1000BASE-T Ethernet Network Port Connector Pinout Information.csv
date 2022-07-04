@@ -1,0 +1,9 @@
+PinNUmber,PinName,Description
+1,TRP1+,"ransmit/receive data pair 1, Negative Vport (in PoE models)"
+2,TRP1-,",Transmit/receive data pair 1, Negative Vport (in PoE models)"
+3,TRP2+,"Transmit/receive data pair 2, Positive Vport (in PoE models)"
+4,TRP3+,Transmit/receive data pair 3
+5,TRP3-,Transmit/receive data pair 3
+6,TRP2-,"Transmit/receive data pair 2, Positive Vport (in PoE models)"
+7,TRP4+,Transmit/receive data pair 4
+8,TRP4-,Transmit/receive data pair 4
