@@ -1,0 +1,21 @@
+PinNumber,PinName,Desription
+1,VeeT,Module transmitter ground
+2,TX_Fault,Module transmitter fault
+3,TX_Disable,Transmitter disabled
+4,SDA,2-wire serial interface data line
+5,SCL,2-wire serial interface clock
+6,MOD_ABS,Module absent
+7,RS,Rate select
+8,RX_LOS,Receiver loss of signal indication
+9,VeeR,Module receiver ground
+10,VeeR,Module receiver ground
+11,VeeR,Module receiver ground
+12,RD-,Module receiver ground
+13,RD+,Receiver noninverted data output
+14,VeeR,Module receiver ground
+15,VccR,Module receiver 3.3 V supply
+16,VccT,Module transmitter 3.3 V supply
+17,VeeT,Module transmitter 3.3 V supply
+18,TD+,Transmitter noninverted data input
+19,TD-,Transmitter inverted data input
+20,VeeT,Module transmitter ground
