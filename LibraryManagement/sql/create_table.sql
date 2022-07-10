@@ -10830,7 +10830,7 @@ CREATE TABLE `Voltage Regulators - Linear` (
 	`Part Status` VARCHAR(255),
 	`Price` VARCHAR(255),
 	`Protection Features` VARCHAR(255),
-	PSRR VARCHAR(255),
+	`PSRR` VARCHAR(255),
 	`Series` VARCHAR(255),
 	`Supplier 1` VARCHAR(255),
 	`Supplier Part Number 1` VARCHAR(255),
