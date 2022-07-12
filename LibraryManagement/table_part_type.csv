@@ -1,0 +1,155 @@
+#Table,Part Type
+Amplifiers - Audio,Output Type
+Amplifiers - OP Amps and Buffer Amps,Amplifier Type
+Amplifiers - Special Purpose,Applications
+Audio - Alarms Buzzers and Sirens,Technology
+Audio - Microphones,Direction
+Audio - Speakers,Power - Rated
+Battery Chargers,Charge Current - Max
+Battery Holders Clips Contacts,Battery Series
+Battery Management,Battery Chemistry
+Capacitors - Aluminum - Electrolytic SMT,Voltage - Rated
+Capacitors - Aluminum - Electrolytic TH,Voltage - Rated
+Capacitors - Aluminum - Polymer SMT,Voltage - Rated
+Capacitors - Aluminum - Polymer TH,Voltage - Rated
+Capacitors - Ceramic - 01005,Voltage - Rated
+Capacitors - Ceramic - 0201,Voltage - Rated
+Capacitors - Ceramic - 0402,Voltage - Rated
+Capacitors - Ceramic - 0603,Voltage - Rated
+Capacitors - Ceramic - 0805,Voltage - Rated
+Capacitors - Ceramic - 1206,Voltage - Rated
+Capacitors - Ceramic - 1210,Voltage - Rated
+Capacitors - Ceramic - 1812,Voltage - Rated
+Capacitors - Ceramic - 2220,Voltage - Rated
+Capacitors - Ceramic - RF,Voltage - Rated
+Capacitors - Film,Voltage Rating - AC
+Capacitors - Mica PTFE,Voltage - Rated
+Capacitors - Tantalum,Voltage - Rated
+Capacitors - Tantalum - Polymer,Voltage - Rated
+Capacitors - Thin Film,Voltage - Rated
+Capacitors - Trimmers Variable,Voltage - Rated
+Clock Timing - Clock Buffers Drivers,Frequency - Max
+Clock Timing - Real Time Clocks,Type
+Connectors - Barrel - Audio,Actual Diameter
+Connectors - Barrel - Power,Actual Diameter
+Connectors - Barrier Blocks,Barrier Type
+Connectors - Card Edge - Edgeboard,Card Type
+Connectors - Coaxial Connectors (RF),Connector Type
+Connectors - Edge - Mezzanine - Board to Board,Connector Type
+Connectors - FFC FPC,Connector/Contact Type
+Connectors - Memory - Card Sockets,Connector Type
+Connectors - Modular Jacks,Connector Type
+Connectors - Modular Jacks With Magnetics,Connector Type
+Connectors - Pluggable,Connector Type
+Connectors - Rectangular Direct Wire to Board,Cable Pitch
+Connectors - Rectangular Headers Female Sockets,Pitch - Mating
+Connectors - Rectangular Headers Male Pins,Pitch - Mating
+Connectors - Terminal Blocks - Headers Plugs and Sockets,Pitch
+Connectors - Terminal Blocks - Wire to Board,Pitch
+Connectors - USB DVI HDMI,Connector Type
+Controller - Power OR and Ideal Diodes,Current - Output (Max)
+Current - Regulation Management,Current - Output
+Data Acquisition - Analog to Digital Converters - ADC,Number of Bits
+Data Acquisition - Digital Potentiometers,Resistance (Ohms)
+Data Acquisition - Digital to Analog Converters DAC,Number of Bits
+Diodes - Bridge Rectifiers,Voltage - Peak Reverse (Max)
+Diodes - Rectifiers - Arrays,Voltage - DC Reverse (Vr) (Max)
+Diodes - Rectifiers - Single,Voltage - DC Reverse (Vr) (Max)
+Diodes - TVS,Voltage - Reverse Standoff (Typ)
+Diodes - Zener - Single,Voltage - Zener (Nom) (Vz)
+Display Modules - LCD OLED Character and Numeric,Viewing Area
+Display Modules - LCD OLED Graphic,Viewing Area
+Embedded - Microcontrollers,Manufacturer
+Encoders,Actuator Type
+Filters - Common Mode Chokes,Applications
+Filters - Ferrite Beads and Chips,Current Rating (Max)
+Fuses - Fuse,Current Rating (Amps)
+Fuses - Fuseholders,Current Rating (Amps)
+Fuses - PTC Resettable,Current - Trip (It)
+Gas Discharge Tube Arresters (GDT),Voltage - DC Spark Over (Nom)
+Hardware - Mounting Brackets,Thread/Screw/Hole Size
+Inductors - Power,Package / Case
+Inductors - RF,Package / Case
+Interface - Analog Switches Multiplexers Demultiplexers,Number of Circuits
+Interface - CODECs,Resolution (Bits)
+Interface - Controllers,Protocol
+Interface - Drivers Receivers Transceivers,Protocol
+Interface - Sensor and Detector,Manufacturer
+Interface - Signal Buffers Repeaters Splitters,Manufacturer
+Interface - Specialized,Applications
+Isolators - Digital,Number of Channels
+LED - Drivers,Type
+LED - Indication,Color
+LED - Lighting - Color,Color
+LED - Lighting - White,CRI (Color Rendering Index)
+Logic - Buffers Drivers Receivers Transceivers,Logic Type
+Logic - Gates and Inverters,Logic Type
+Logic - Linear Comparators,Number of Elements
+Logic - Translators Level Shifters,Channels per Circuit
+Memory,Memory Format
+MOSFET - Arrays - N-Ch,Drain to Source Voltage (Vdss)
+MOSFET - Arrays - N-Ch And P-Ch,Drain to Source Voltage (Vdss)
+MOSFET - Arrays - P-Ch,Drain to Source Voltage (Vdss)
+MOSFET - Gate Drivers,Gate Type
+MOSFET - Single - N-Ch,Drain to Source Voltage (Vdss)
+MOSFET - Single - P-Ch,Drain to Source Voltage (Vdss)
+Motor Drivers Controllers,Output Configuration
+Optics - Light Pipes,Manufacturer
+Optoelectronics - Infrared UV Visible Emitters,Type
+Optoisolators - Transistor Photovoltaic,Number of Channels
+Optoisolators - Triac SCR Output,Number of Channels
+Oscillators - Crystals,Package / Case
+Oscillators - Oscillators,Package / Case
+Oscillators - Programmable Oscillators,Package / Case
+PMIC - Energy Metering,Meter Type
+Power Distribution - Switches and Load Drivers,Ratio - Input:Output
+Power Management - Specialized,Applications
+Power Supplies - Board Mount - DC DC Converters,Type
+Relays - Power Relays,Coil Voltage
+Relays - Signal Relays,Coil Voltage
+Resistors -  Arrays and Networks,Number of Resistors
+Resistors - Current Sense SMT,Power (Watts)
+Resistors - Surface Mount - 0201,Power (Watts)
+Resistors - Surface Mount - 0402,Power (Watts)
+Resistors - Surface Mount - 0603,Power (Watts)
+Resistors - Surface Mount - 0805,Power (Watts)
+Resistors - Surface Mount - 1206,Power (Watts)
+Resistors - Surface Mount - 1210,Power (Watts)
+Resistors - Surface Mount - 2512,Power (Watts)
+Resistors - Trimmer Potentiometers,Power (Watts)
+RF - Antennas,Frequency Group
+RF - Filters,Frequency
+RF - Front End LNA PA,RF Type
+RF - Receivers,Frequency
+RF - RFID and RF Access ICs,Type
+RF - Transceiver ICs,Type
+RF - Transceiver Modules,Manufacturer
+Sensors - Current Sense Transformers,Current Rating (Amps)
+Sensors - Humidity Moisture,Sensor Type
+Sensors - Motion - Accelerometers,Manufacturer
+Sensors - NTC Thermistors,Package / Case
+Sensors - Optical - Photodiodes,Manufacturer
+Sensors - Optical - Remote Photo Receiver,Manufacturer
+Sensors - Pressure,Applications
+Sensors - PTC Thermistors,Package / Case
+Sensors - Temperature - Analog and Digital,Sensor Type
+Sensors - Temperature - RTD,Package / Case
+Signal - Buffers Repeaters Splitters,Number of Channels
+Supervisors,Type
+Switches - DIP,Number of Positions
+Switches - Magnetic Reed,Type
+Switches - Pushbutton,Actuator Type
+Switches - Slide,Actuator Type
+Switches - Snap Action Limit,Actuator Type
+Switches - Tactile,Actuator Type
+Thyristors - SCRs,SCR Type
+Thyristors - TRIACs,Triac Type
+TMPPRTS,
+Transistors - Bipolar BJT - RF,Transistor Type
+Transistors - Bipolar BJT - Single,Transistor Type
+Transistors - Bipolar BJT - Single Pre-Biased,Transistor Type
+TVS - MOVs,Applications
+Voltage Reference,Voltage - Output (Min/Fixed)
+Voltage Regulators - DC DC Switching Controllers,Topology
+Voltage Regulators - DC DC Switching Regulators,Topology
+Voltage Regulators - Linear,Voltage - Output (Min/Fixed)
