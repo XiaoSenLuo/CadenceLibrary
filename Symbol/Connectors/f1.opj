@@ -4,8 +4,7 @@
   (Folder "Design Resources"
     (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
-    (File
-       "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Connectors\CONNECTOR_SFP.OLB"
+    (File ".\connector_sfp.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -27,14 +26,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Connectors\CONNECTOR_SFP.OLB")
-      (Select "Design Resources"
-         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Connectors\CONNECTOR_SFP.OLB"))
+      (Path "Design Resources" ".\connector_sfp.olb")
+      (Select "Design Resources" ".\connector_sfp.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 349 0 1009"))
-      (Tab 0)))
-  (MPSSessionName "XIAOSENLUO"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 1009"))
+      (Tab 0))))
