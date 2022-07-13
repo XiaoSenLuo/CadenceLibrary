@@ -4,7 +4,8 @@
   (Folder "Design Resources"
     (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
-    (File ".\resistors.olb"
+    (File
+       "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Passives\resistors.OLB"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -26,12 +27,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\resistors.olb")
-      (Select "Design Resources" ".\resistors.olb" "Resistor1"))
+      (Path "Design Resources"
+         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Passives\resistors.OLB")
+      (Select "Design Resources"
+         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Passives\resistors.OLB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 1007"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 304 0 1009"))
       (Tab 0)))
   (MPSSessionName "XIAOSENLUO"))
