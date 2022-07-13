@@ -4,7 +4,8 @@
   (Folder "Design Resources"
     (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
-    (File ".\diodes.olb"
+    (File
+       "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Diodes\diodes.OLB"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -26,12 +27,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\diodes.olb")
-      (Select "Design Resources" ".\diodes.olb" "Diode"))
+      (Path "Design Resources"
+         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Diodes\diodes.OLB")
+      (Select "Design Resources"
+         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Diodes\diodes.OLB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 269 0 814"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 251 0 1009"))
       (Tab 0)))
   (MPSSessionName "XIAOSENLUO"))
