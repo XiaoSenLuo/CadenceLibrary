@@ -4,7 +4,8 @@
   (Folder "Design Resources"
     (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
-    (File ".\capacitors.olb"
+    (File
+       "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Passives\capacitors.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -26,12 +27,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\capacitors.olb")
-      (Select "Design Resources" ".\capacitors.olb" "capacitor"))
+      (Path "Design Resources"
+         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Passives\capacitors.olb")
+      (Select "Design Resources"
+         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\Passives\capacitors.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 789"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 338 0 1009"))
       (Tab 0)))
   (MPSSessionName "XIAOSENLUO"))
