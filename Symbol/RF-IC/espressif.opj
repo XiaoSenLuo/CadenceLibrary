@@ -4,7 +4,8 @@
   (Folder "Design Resources"
     (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
-    (File ".\espressif.olb"
+    (File
+       "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\RF-IC\espressif.OLB"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -26,10 +27,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\espressif.olb"))
+      (Path "Design Resources"
+         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\RF-IC\espressif.OLB")
+      (Select "Design Resources"
+         "C:\Users\XIAOSENLUO\Documents\Cadence\CadenceLibrary\Symbol\RF-IC\espressif.OLB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 268 0 1004"))
-      (Tab 0))))
+        (Placement "44 0 1 -1 -1 -1 -1 0 342 0 1009"))
+      (Tab 0)))
+  (MPSSessionName "XIAOSENLUO"))
