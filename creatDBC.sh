@@ -91,6 +91,7 @@ value="Value"
 tolerance="Tolerance"
 packagetype="Package / Case"
 description="Description"
+color='Color'
 
 tablecfg=""
 tablecfgi=0
@@ -188,16 +189,16 @@ function set_dbfielddef() {
     dbfieldname="$fd"
     
     if [ "$fd" == "$part_type" ]; then # Part Type
-        #fieldname="$fd"
+        fieldname="$fd"
         browse=0
         key=0
-        if [ "$part_type" == "$manufacturer" ]; then
-		    fieldname="$manufacturer"
+        #if [ "$part_type" == "$manufacturer" ]; then
+		#    fieldname="$manufacturer"
+        #    ignore=0             # 属性更新到原理图
+        #else
+		#    fieldname=""
             ignore=0             # 属性更新到原理图
-        else
-		    fieldname=""
-            ignore=1             # 属性不更新到原理图
-        fi
+        #fi
         visibility=0
         propertytype=2
         updatepartprop=1
@@ -221,7 +222,7 @@ function set_dbfielddef() {
         updatepartprop=1
 
     elif [ "$fd" == "$part_number" ]; then # Part Number
-        fieldname='Part Number'
+        fieldname='Part_Number'
         browse=0
         key=0
         ignore=0                # 属性更新到原理图
@@ -237,12 +238,11 @@ function set_dbfielddef() {
     elif [ "$fd" == "$value" ]; then 
         fieldname='Value'
         propertytype=0
+		ignore=0
         if [[ "${tn:0:12}" == "Capacitors -" || "${tn:0:11}" == "Inductors -" || "${tn:0:11}" == "Resistors -" ]]; then
-           ignore=0
 		   key=1
            visibility=1
         else
-           ignore=0
 		   key=0
            visibilty=0
         fi
@@ -259,7 +259,7 @@ function set_dbfielddef() {
         ignore=0                # 属性更新到原理图
         visibility=0
         propertytype=0
-        updatepartprop=1
+        updatepartprop=1	
 	else
 	    if [[ "$fd" == "ComponentLink1URL" || "$fd" == "ComponentLink2URL" ]]; then
             browse=1
@@ -285,6 +285,12 @@ function set_dbfielddef() {
 		    ignore=0
 		fi
     fi
+	
+	# Color属性在原理图的属性名不能是Color, 否则会出现ERROR
+	if [ "$fd" == "$color" ]; then
+	    fieldname="${color}Value"
+		# ignore=1
+	fi
 }
 
 while IFS= read -r csvrow; do
