@@ -4,7 +4,7 @@ Cadence Allegro &amp;&amp; Capture CIS Database Library
 
 ![](cis.png)
 
-####脚本说明
+#### 脚本说明
 - evn.sh
   
   evn.sh 用于生成 Capture CIS 和 Allegro 所需的环境路径, 将生成的Capture.txt文件内容添加或者替换到 Capture.ini 相应设置。evn.txt 文件内容添加或者替换到 evn 相应设置。Capture.ini 和 evn 都位于 Cadence 用户数据路径下(默认是 SPB_Data\cdssetup\OrCAD_Capture\<version>, SPB_Data\pcbenv)
